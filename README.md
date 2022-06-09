@@ -99,8 +99,8 @@
 ### 4) 게시판
 #### (1) 게시글 목록
 - 데이터 베이스에 저장된 게시글 목록 조회
-- 페이지네이션 적용 (5페이지씩 끊어서 화면에 표시)<br><br>
-- 1페이지에서는 이전 페이지 버튼 disabled, 마지막 페이지에서는 다음 페이지 버튼 disabled
+- 페이지네이션 적용 (5페이지씩 끊어서 화면에 표시)
+- 1페이지에서는 이전 페이지 버튼 disabled, 마지막 페이지에서는 다음 페이지 버튼 disabled <br><br>
   - PC 화면<br><br>
   ![image](https://user-images.githubusercontent.com/93658676/172390457-102c451b-fa83-4b8d-ab12-9f0291d6afc3.png)<br><br>
   - 모바일 화면<br><br>
