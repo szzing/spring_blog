@@ -10,8 +10,7 @@
 
 ## 1. 개발 정보
 ### 1) 프레임워크
-- Spring Tool Suite4<br>
-- Visual Studio Code 
+- Spring Tool Suite4
 
 
 ### 2) 언어
